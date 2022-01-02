@@ -1,0 +1,181 @@
+.grid-range-container {
+  height: 525px;
+  width: 598px;
+  display: grid;
+/*  background: lightgrey;*/
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto ;
+}
+
+.grid-item {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  background: lightgrey;
+  align-items: center;
+}
+
+#button {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#button:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#small-blind {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#small-blind:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#big-blind {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#big-blind:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+
+#utg {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#utg:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#hijack {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#hijack:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#cut-off {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#cut-off:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#top-15 {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#top-15:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#top-20 {
+  height: 45px;
+  width: 125px;
+  background: lightskyblue;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: left;
+  margin: 5px;
+}
+#top-20:hover {
+  background: lightgrey;
+  cursor: pointer;
+}
+
+#reset {
+  height:  20px;
+  width: 50px;
+  color: white;
+  background: black;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#reset:hover {
+  background: lightgrey;
+  cursor: pointer;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
